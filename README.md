@@ -1,3 +1,4 @@
+SOBRE MIM
 - 👋 olá, meu nome é @JuliaNarcizo
 - :+1: Meu email de contato é julia.narcizo@escola.pr.gov.br
 - 👀 Eu estou interessada em aprender a programar novas linguagens
